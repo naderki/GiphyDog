@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: dXfvRvwQKPWo0
+  url: 'http://giphy.com/gifs/dark-souls-ii-dXfvRvwQKPWo0'
+  image_original_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/giphy.gif'
+  image_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/giphy.gif'
+  image_mp4_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/giphy.mp4'
+  image_frames: '40'
+  image_width: '500'
+  image_height: '257'
+  fixed_height_downsampled_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/200_d.gif'
+  fixed_height_downsampled_width: '389'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '103'
+  fixed_height_small_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/100.gif'
+  fixed_height_small_still_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/100_s.gif'
+  fixed_height_small_width: '195'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/100w.gif'
+  fixed_width_small_still_url: 'https://media2.giphy.com/media/dXfvRvwQKPWo0/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '52'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599c6cc1596e5554778ffc29

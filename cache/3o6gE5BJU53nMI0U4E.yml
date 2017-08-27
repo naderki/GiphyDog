@@ -1,0 +1,31 @@
+data:
+  type: gif
+  id: 3o6gE5BJU53nMI0U4E
+  url: >-
+    http://giphy.com/gifs/spongebob-happy-surprise-squarepants-3o6gE5BJU53nMI0U4E
+  image_original_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/giphy.mp4'
+  image_frames: '47'
+  image_width: '540'
+  image_height: '304'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/200_d.gif'
+  fixed_height_downsampled_width: '355'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '113'
+  fixed_height_small_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/100_s.gif'
+  fixed_height_small_width: '178'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/3o6gE5BJU53nMI0U4E/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '56'
+  username: spongebob
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599da099763368432eb9d3c5

@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: 11i5lIuRg1dXBS
+  url: 'http://giphy.com/gifs/angel-beats-kanade-tachibana-11i5lIuRg1dXBS'
+  image_original_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/giphy.gif'
+  image_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/giphy.gif'
+  image_mp4_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/giphy.mp4'
+  image_frames: '11'
+  image_width: '500'
+  image_height: '284'
+  fixed_height_downsampled_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/200_d.gif'
+  fixed_height_downsampled_width: '352'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '114'
+  fixed_height_small_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/100.gif'
+  fixed_height_small_still_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/100_s.gif'
+  fixed_height_small_width: '176'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/100w.gif'
+  fixed_width_small_still_url: 'https://media1.giphy.com/media/11i5lIuRg1dXBS/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '57'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599af20a51676d2e599567df

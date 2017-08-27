@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: l0Exc5FrCjz56lnlS
+  url: 'http://giphy.com/gifs/cute-animals-l0Exc5FrCjz56lnlS'
+  image_original_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/giphy.mp4'
+  image_frames: '30'
+  image_width: '576'
+  image_height: '324'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/200_d.gif'
+  fixed_height_downsampled_width: '356'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '113'
+  fixed_height_small_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/100_s.gif'
+  fixed_height_small_width: '178'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/l0Exc5FrCjz56lnlS/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '57'
+  username: thirteenwnet
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dbb376a4243345502c318

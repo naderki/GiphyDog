@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: 3oEjHUajTSwjbkCDRu
+  url: 'http://giphy.com/gifs/dance-cute-cupcake-3oEjHUajTSwjbkCDRu'
+  image_original_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/giphy.gif'
+  image_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/giphy.gif'
+  image_mp4_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/giphy.mp4'
+  image_frames: '11'
+  image_width: '576'
+  image_height: '432'
+  fixed_height_downsampled_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/200_d.gif'
+  fixed_height_downsampled_width: '267'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '150'
+  fixed_height_small_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/100.gif'
+  fixed_height_small_still_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/100_s.gif'
+  fixed_height_small_width: '133'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/100w.gif'
+  fixed_width_small_still_url: 'https://media0.giphy.com/media/3oEjHUajTSwjbkCDRu/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '75'
+  username: kirun
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dbbbe47746a6d77e1dd1e

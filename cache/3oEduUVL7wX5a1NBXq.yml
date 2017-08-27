@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: 3oEduUVL7wX5a1NBXq
+  url: 'http://giphy.com/gifs/afvpets-cats-pets-afv-3oEduUVL7wX5a1NBXq'
+  image_original_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/giphy.gif'
+  image_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/giphy.gif'
+  image_mp4_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/giphy.mp4'
+  image_frames: '39'
+  image_width: '350'
+  image_height: '233'
+  fixed_height_downsampled_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/200_d.gif'
+  fixed_height_downsampled_width: '300'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '133'
+  fixed_height_small_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/100.gif'
+  fixed_height_small_still_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/100_s.gif'
+  fixed_height_small_width: '150'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/100w.gif'
+  fixed_width_small_still_url: 'https://media1.giphy.com/media/3oEduUVL7wX5a1NBXq/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '67'
+  username: afvpets
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc852715958787318361a

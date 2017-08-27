@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: DdGugw1M5eUsU
+  url: 'http://giphy.com/gifs/cats-kitty-rave-DdGugw1M5eUsU'
+  image_original_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/giphy.mp4'
+  image_frames: '150'
+  image_width: '400'
+  image_height: '224'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/200_d.gif'
+  fixed_height_downsampled_width: '357'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '112'
+  fixed_height_small_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/100_s.gif'
+  fixed_height_small_width: '179'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/DdGugw1M5eUsU/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '56'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc85d42596233516ed4da

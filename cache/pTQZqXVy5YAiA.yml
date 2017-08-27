@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: pTQZqXVy5YAiA
+  url: 'http://giphy.com/gifs/hard-knocks-pTQZqXVy5YAiA'
+  image_original_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/giphy.mp4'
+  image_frames: '73'
+  image_width: '270'
+  image_height: '360'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/200_d.gif'
+  fixed_height_downsampled_width: '150'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '267'
+  fixed_height_small_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/100_s.gif'
+  fixed_height_small_width: '75'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/pTQZqXVy5YAiA/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '134'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599c6cd1486a4d7141c8782b

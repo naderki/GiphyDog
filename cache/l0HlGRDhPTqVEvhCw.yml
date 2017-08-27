@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: l0HlGRDhPTqVEvhCw
+  url: 'http://giphy.com/gifs/hallmarkecards-cats-kitty-l0HlGRDhPTqVEvhCw'
+  image_original_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/giphy.gif'
+  image_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/giphy.gif'
+  image_mp4_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/giphy.mp4'
+  image_frames: '29'
+  image_width: '485'
+  image_height: '375'
+  fixed_height_downsampled_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/200_d.gif'
+  fixed_height_downsampled_width: '259'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '155'
+  fixed_height_small_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/100.gif'
+  fixed_height_small_still_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/100_s.gif'
+  fixed_height_small_width: '130'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/100w.gif'
+  fixed_width_small_still_url: 'https://media1.giphy.com/media/l0HlGRDhPTqVEvhCw/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '78'
+  username: hallmarkecards
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc8114b5344516719c88a

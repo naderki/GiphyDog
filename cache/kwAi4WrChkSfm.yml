@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: kwAi4WrChkSfm
+  url: 'http://giphy.com/gifs/dog-animal-kwAi4WrChkSfm'
+  image_original_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/giphy.gif'
+  image_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/giphy.gif'
+  image_mp4_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/giphy.mp4'
+  image_frames: '114'
+  image_width: '164'
+  image_height: '164'
+  fixed_height_downsampled_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/200_d.gif'
+  fixed_height_downsampled_width: '200'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '200'
+  fixed_height_small_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/100.gif'
+  fixed_height_small_still_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/100_s.gif'
+  fixed_height_small_width: '100'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/100w.gif'
+  fixed_width_small_still_url: 'https://media0.giphy.com/media/kwAi4WrChkSfm/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '100'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599da0a6324f41574d676b7d

@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: xTiTnnzSvW1FxGVi12
+  url: 'http://giphy.com/gifs/conan-obrien-awww-xTiTnnzSvW1FxGVi12'
+  image_original_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/giphy.mp4'
+  image_frames: '24'
+  image_width: '400'
+  image_height: '183'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/200_d.gif'
+  fixed_height_downsampled_width: '437'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '92'
+  fixed_height_small_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/100_s.gif'
+  fixed_height_small_width: '219'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/xTiTnnzSvW1FxGVi12/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '46'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dbb304a4f687a326947cc

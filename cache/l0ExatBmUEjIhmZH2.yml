@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: l0ExatBmUEjIhmZH2
+  url: 'http://giphy.com/gifs/funny-cute-lol-l0ExatBmUEjIhmZH2'
+  image_original_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/giphy.mp4'
+  image_frames: '28'
+  image_width: '464'
+  image_height: '361'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/200_d.gif'
+  fixed_height_downsampled_width: '257'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '156'
+  fixed_height_small_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/100_s.gif'
+  fixed_height_small_width: '129'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/l0ExatBmUEjIhmZH2/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '78'
+  username: sandiegozoo
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 59a034f36b67435136c0f5f1

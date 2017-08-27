@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: 5xaOcLwCCJURSCvXBte
+  url: 'http://giphy.com/gifs/cheezburger-friends-cats-beat-drop-5xaOcLwCCJURSCvXBte'
+  image_original_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/giphy.mp4'
+  image_frames: '26'
+  image_width: '460'
+  image_height: '172'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/200_d.gif'
+  fixed_height_downsampled_width: '535'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '75'
+  fixed_height_small_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/100_s.gif'
+  fixed_height_small_width: '267'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/5xaOcLwCCJURSCvXBte/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '37'
+  username: cheezburger
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc814646f684c368fd139

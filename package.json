@@ -1,0 +1,26 @@
+{
+  "name": "giphydog",
+  "version": "1.0.0",
+  "description": "Creates a webserver that pipes streams to random gif from Giphy based on the --term arg.",
+  "main": "giphydog.js",
+  "dependencies": {
+    "bunyan": "latest",
+    "express": "latest",
+    "giphy-api": "latest",
+    "js-yaml": "latest",
+    "yargs": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}

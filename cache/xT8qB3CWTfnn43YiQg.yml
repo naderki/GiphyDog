@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: xT8qB3CWTfnn43YiQg
+  url: 'http://giphy.com/gifs/omaze-cats-nine-lives-xT8qB3CWTfnn43YiQg'
+  image_original_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/giphy.mp4'
+  image_frames: '50'
+  image_width: '650'
+  image_height: '366'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/200_d.gif'
+  fixed_height_downsampled_width: '355'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '113'
+  fixed_height_small_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/100_s.gif'
+  fixed_height_small_width: '178'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/xT8qB3CWTfnn43YiQg/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '56'
+  username: omaze
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc7c95456646b32abed85

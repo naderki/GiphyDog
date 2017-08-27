@@ -1,0 +1,31 @@
+data:
+  type: gif
+  id: 3oEjHICDl30tEYF5Oo
+  url: >-
+    http://giphy.com/gifs/beckadoodles-buttered-toast-melt-my-heart-3oEjHICDl30tEYF5Oo
+  image_original_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/giphy.gif'
+  image_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/giphy.gif'
+  image_mp4_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/giphy.mp4'
+  image_frames: '10'
+  image_width: '1000'
+  image_height: '1000'
+  fixed_height_downsampled_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/200_d.gif'
+  fixed_height_downsampled_width: '200'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '200'
+  fixed_height_small_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/100.gif'
+  fixed_height_small_still_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/100_s.gif'
+  fixed_height_small_width: '100'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/100w.gif'
+  fixed_width_small_still_url: 'https://media0.giphy.com/media/3oEjHICDl30tEYF5Oo/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '100'
+  username: beckadoodles
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc9115a536d5a2eeb4f25

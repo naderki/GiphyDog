@@ -1,0 +1,31 @@
+data:
+  type: gif
+  id: 26gsuuqxijJFKRBeM
+  url: >-
+    http://giphy.com/gifs/studiosoriginals-gnomio-reactions-domitille-collardey-adebimpe-26gsuuqxijJFKRBeM
+  image_original_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/giphy.gif'
+  image_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/giphy.gif'
+  image_mp4_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/giphy.mp4'
+  image_frames: '6'
+  image_width: '480'
+  image_height: '322'
+  fixed_height_downsampled_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/200_d.gif'
+  fixed_height_downsampled_width: '298'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '134'
+  fixed_height_small_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/100.gif'
+  fixed_height_small_still_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/100_s.gif'
+  fixed_height_small_width: '149'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/100w.gif'
+  fixed_width_small_still_url: 'https://media2.giphy.com/media/26gsuuqxijJFKRBeM/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '67'
+  username: studiosoriginals
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc8f64b5638616bdf3df0

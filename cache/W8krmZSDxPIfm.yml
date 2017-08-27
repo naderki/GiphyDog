@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: W8krmZSDxPIfm
+  url: 'http://giphy.com/gifs/party-night-weekend-W8krmZSDxPIfm'
+  image_original_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/giphy.gif'
+  image_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/giphy.gif'
+  image_mp4_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/giphy.mp4'
+  image_frames: '6'
+  image_width: '400'
+  image_height: '229'
+  fixed_height_downsampled_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/200_d.gif'
+  fixed_height_downsampled_width: '349'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '115'
+  fixed_height_small_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/100.gif'
+  fixed_height_small_still_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/100_s.gif'
+  fixed_height_small_width: '175'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/100w.gif'
+  fixed_width_small_still_url: 'https://media3.giphy.com/media/W8krmZSDxPIfm/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '57'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599dc85f38724a52771797ac

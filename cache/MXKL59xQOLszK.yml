@@ -1,0 +1,30 @@
+data:
+  type: gif
+  id: MXKL59xQOLszK
+  url: 'http://giphy.com/gifs/swag-full-house-MXKL59xQOLszK'
+  image_original_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/giphy.gif'
+  image_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/giphy.gif'
+  image_mp4_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/giphy.mp4'
+  image_frames: '16'
+  image_width: '336'
+  image_height: '288'
+  fixed_height_downsampled_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/200_d.gif'
+  fixed_height_downsampled_width: '233'
+  fixed_height_downsampled_height: '200'
+  fixed_width_downsampled_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/200w_d.gif'
+  fixed_width_downsampled_width: '200'
+  fixed_width_downsampled_height: '171'
+  fixed_height_small_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/100.gif'
+  fixed_height_small_still_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/100_s.gif'
+  fixed_height_small_width: '117'
+  fixed_height_small_height: '100'
+  fixed_width_small_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/100w.gif'
+  fixed_width_small_still_url: 'https://media1.giphy.com/media/MXKL59xQOLszK/100w_s.gif'
+  fixed_width_small_width: '100'
+  fixed_width_small_height: '86'
+  username: ''
+  caption: ''
+meta:
+  status: 200
+  msg: OK
+  response_id: 599c6d394e6d746973480d28
