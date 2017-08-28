@@ -125,12 +125,6 @@ let fetch = function(req, res) {
             res.writeHead(200, {'Content-Type': 'image/gif' });
             cacheFile.pipe(decrypt).pipe(res);
 
-			//TODO: this is annoying "[cacheFile] must be a string or buffer"
-            //let dec = decrypt.update(cacheFile, 'base64', 'utf8');
-            //dec += decrypt.final('utf8');
-            ///res.write('<img src="data:image/gif;base64,' + dec + '">');
-            //res.end();
-
             logger.log.debug('FS: File exists in cache; piping...');
         }
     });
@@ -195,6 +189,5 @@ app.on('error', (err) => { logger.log.error('Server: error event occurred!\n %s'
 
 app.listen(port);
 
-console.log("starting");
 logger.log.debug('Server listening on port %s', port);
 

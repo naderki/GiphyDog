@@ -15,20 +15,20 @@ Creates a web server that fetches random GIFs from the Giphy service!
  * Caching and encryption
 
 #### **TODO List:**
-* ~~Create a web interface~~
-    * ~~web form to grab search term~~
-	* Display gif in frame
-	    * Create frame
-	    * display meta data from the YAML file below the gif
-    * Use HTML/CSS to frame content correctly
-    * Create admin page
-            * Database usage for authentication
-            * On/off button
-            * authenticate all usage
+* display meta data from the YAML file below the gif
+* Create admin page
+    * Database usage for authentication
+    * On/off button
 
 -----
 **Technologies:**
 * ~~WebRTC~~
+* ~~Express~~
+* ~~Bootstrap~~
+* ~~jQuery~~
+* ~~CSS/HTML~~
+* ~~Node~~
+
 
 -----
 #### **Done:**
@@ -57,6 +57,11 @@ Creates a web server that fetches random GIFs from the Giphy service!
   * ~~Events for read streams~~
   * ~~Transform streams~~
 * ~~Compact functions~~
+* ~~Create a web interface~~
+    * ~~web form to grab search term~~
+	* ~~Display gif in frame~~
+	    * ~~Create frame~~
+    * ~~Use HTML/CSS to frame content correctly~~
 
 #### Running the script
 
