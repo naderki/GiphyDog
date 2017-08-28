@@ -22,8 +22,7 @@
     <div class="jumbotron center-block">
         <h1>Hello, world!</h1>
         <p class="lead">
-            Someday, this will have a web form and a button to fetch a gif. Until that day, this remains some static
-            text.
+            Type in a term and hit the button to grab a random, term-related gif.
         </p>
         <img class="img-responsive" id="container" src="http://ichef-1.bbci.co.uk/news/976/media/images/83351000/jpg/_83351965_explorer273lincolnshirewoldssouthpicturebynicholassilkstone.jpg" />
         <br>
@@ -53,7 +52,7 @@
     $("#fetch").click(replaceImage);
 
     function replaceImage(/*term?*/) {
-        let url = "api/fetch?term=" + $("#term").val();
+        let url = "api/fetch?term=" + $("#term").val() + "&break="+ new Date().getTime();
         $("#container").attr("src", url);
     }
 </script>

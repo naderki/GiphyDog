@@ -195,5 +195,6 @@ app.on('error', (err) => { logger.log.error('Server: error event occurred!\n %s'
 
 app.listen(port);
 
+console.log("starting");
 logger.log.debug('Server listening on port %s', port);
 
