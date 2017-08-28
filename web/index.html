@@ -7,7 +7,8 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
-          integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+          integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M"
+          crossorigin="anonymous">
 
     <!-- My CSS -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -18,21 +19,22 @@
         <h3 class="text-muted">GiphyDog</h3>
     </div>
 
-    <div class="jumbotron">
+    <div class="jumbotron center-block">
         <h1>Hello, world!</h1>
         <p class="lead">
-            Someday, this will have a web form and a button to fetch a gif. Until that day, this remains some static
-            text.
+            Type in a term and hit the button to grab a random, term-related gif.
         </p>
-        <form method="get">
+        <img class="img-responsive" id="container" src="http://ichef-1.bbci.co.uk/news/976/media/images/83351000/jpg/_83351965_explorer273lincolnshirewoldssouthpicturebynicholassilkstone.jpg" />
+        <br>
+        <div style="text-align: center;">
             <label for="term">Search Term: <br></label>
-            <input name="term" id="term"><br>
-            <input type="submit" class="btn btn-primary btn-lg" role="button" value="Fetch, boy!">
-        </form>
+            <input name="term" id="term">
+            <button id="fetch" class="btn btn-primary btn-lg"> Fetch, boy! </button>
+        </div>
     </div>
 </div>
 
-<!-- Optional JavaScript -->
+<!-- JavaScript Libraries -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -43,5 +45,17 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"
         integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1"
         crossorigin="anonymous"></script>
+
+<!-- this comment is a test -->
+<!-- JavaScript Code -->
+<script>
+    $("#fetch").click(replaceImage);
+
+    function replaceImage(/*term?*/) {
+        let url = "api/fetch?term=" + $("#term").val() + "&break="+ new Date().getTime();
+        $("#container").attr("src", url);
+    }
+</script>
+
 </body>
 </html>
