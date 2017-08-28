@@ -138,17 +138,21 @@ let fetch = function(req, res) {
 
 app.get('/fetch', fetch);
 
-app.get('/', function(req, res) {
+/*app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/web/index.html');
     //res.writeHead(200);
     //res.end('Connected to HTTP server. Working directory is ' + __dirname);
 	}
-);
+);*/
+
+app.use(express.static(__dirname + '/web'));
 
 app.get('/api/fetch', (req, res) => {
 	term = req.query.term;
 	fetch(req, res);
 });
+
+app.use("/css", express.static(__dirname + '/web/css'));
 
 /*
  *	BEGIN: Server event handlers
