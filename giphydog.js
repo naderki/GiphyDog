@@ -17,7 +17,17 @@ let http = require('http'),
  */
 
 let term = argv.term;
-const key = 'I\'ve got the most secure keys out of anyone, believe me';
+const key = '    ----' +
+    '          /  __  \\' +
+    '         |  /  \\  |' +
+    '        /  /    \\ \\' +
+    '       |  |     |  -------------------------------------------------' +
+    '       |  |     |  ------------------------------------            )' +
+    '       \\  \\   /  /                                   |           |' +
+    '         |  \\_/  |                                    |    _      |' +
+    '          \\     /                                     |  _| |  _  |' +
+    '            ----                                       | |   | | | |' +
+    '                                                       |_|   |_| |_|';
 const port = 8080;
 const app = express();
 
@@ -122,7 +132,12 @@ let fetch = function(req, res) {
             });
 
             let decrypt = crypto.createDecipher('aes-256-ctr', key);
-            res.writeHead(200, {'Content-Type': 'image/gif' });
+            //res.writeHead(200, {'Content-Type': 'image/gif' });
+            res.writeHead(200, {
+                'Content-Type': 'image/gif',
+                'Cache-Control': 'no-cache'
+            });
+
             cacheFile.pipe(decrypt).pipe(res);
 
             logger.log.debug('FS: File exists in cache; piping...');
